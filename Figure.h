@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include "GeometryException.h"
 
 using namespace std;
 

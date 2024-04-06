@@ -130,6 +130,7 @@
     <ClCompile Include="3. Иерархия классов.cpp" />
     <ClCompile Include="EquilateralTriangle.cpp" />
     <ClCompile Include="Figure.cpp" />
+    <ClCompile Include="GeometryException.cpp" />
     <ClCompile Include="IsoscelesTriangle.cpp" />
     <ClCompile Include="Parallelogram.cpp" />
     <ClCompile Include="Quadrangle.cpp" />
@@ -142,6 +143,7 @@
   <ItemGroup>
     <ClInclude Include="EquilateralTriangle.h" />
     <ClInclude Include="Figure.h" />
+    <ClInclude Include="GeometryException.h" />
     <ClInclude Include="IsoscelesTriangle.h" />
     <ClInclude Include="Parallelogram.h" />
     <ClInclude Include="Quadrangle.h" />

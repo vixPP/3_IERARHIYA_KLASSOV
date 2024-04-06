@@ -1,8 +1,7 @@
 #pragma once
 #include "Figure.h"
 
-class Quadrangle :
-    public Figure
+class Quadrangle :  public Figure
 {
 protected:
     double a, b, c, d;
